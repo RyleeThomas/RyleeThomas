@@ -1,0 +1,110 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.mainRow {
+    margin-top: 5%;
+    margin-bottom: 2%;
+    margin-left: 10%;
+    margin-right: 10%;
+    justify-content: center;
+}
+
+a {
+    font-family: permanent-marker, sans-serif;
+    color: black;
+    text-decoration: none;
+}
+
+span {
+    font-family: muli, sans-serif;
+    text-decoration: none;
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
+
+a:hover {
+    color: gray;
+}
+
+h1,h2,h3,h4 {
+    font-family: muli, sans-serif;
+    font-weight: 700;
+}
+
+h5 {
+    font-family: permanent-marker, sans-serif; 
+}
+
+p{
+    font-family: muli, sans-serif;
+}
+
+.coverImage {
+    background-image: url("images/outlineSelfie.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+    height: 80vh;
+}
+
+.mainNav .nav-item .nav-link {
+    padding-right: 50px;
+    font-size: 20px;
+}
+
+.mainNav .nav-item .nav-link.active {
+    color: rgb(141, 3, 3);
+}
+
+.projectRow .nav-link {
+    color: gray;
+}
+
+.projectRow .nav-link.active {
+    background-color: rgb(141, 3, 3);
+}
+
+form input {
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.form-control:focus {
+    border-color: rgb(141, 3, 3);
+    box-shadow: 0 0 0 0.2rem rgb(247, 190, 190);
+}
+
+.form-group .row {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media only screen and (max-width: 575px) {
+    .oulineImageCol {
+        height: auto;
+    }
+
+    .mainRow {
+        margin-top: 20px;
+        margin-bottom: 100px;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    .form-group .row {
+        margin-left: auto;
+        margin-right: auto;
+    }
+  }
