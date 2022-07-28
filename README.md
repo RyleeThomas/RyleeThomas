@@ -1,21 +1,12 @@
 
-This week, I build a portfolio page.
-A portfolio of work that showcases my skills and talents to employers looking to fill a part-time or full-time position. I added sections about me, portfolio porjects, a case study I did for a client, and contact section. 
-
-This project I applyied the core skills learned: flexbox, media queries, and CSS variables. 
-
-The criteria:
-GIVEN I need to sample a potential employee's previous work
-WHEN I load their portfolio
-THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
-WHEN I click one of the links in the navigation
-THEN the UI scrolls to the corresponding section
-WHEN I click on the link to the section about their work
-THEN the UI scrolls to a section with titled images of the developer's applications
-WHEN I am presented with the developer's first application
-THEN that application's image should be larger in size than the others
-WHEN I click on the images of the applications
-THEN I am taken to that deployed application
-WHEN I resize the page or view the site on various screens and devices
-THEN I am presented with a responsive layout that adapts to my viewport
+Full stack web developer with graphic design experience educated at UNC Wilmington.
+Recently earned a certificate in full stack development from the
+UNC Chapel Hill, with newly developed skills in JavaScript, MERN stack, and 
+GraphQL. Known as an innovative problem solver passionate about developing apps, with a focus
+on mobile-first design and development. 
+Successfully rebranded an organization, which increased exposure and social media following.
+Passionate about approaching programming challenges from different angles and collaborating
+with others to create meaningful web applications. Excited to develop responsive websites.
+Positioned to provide unique perspectives on how end users interact with websites and software
+platforms by leveraging background in digital marketing and sales.
 
